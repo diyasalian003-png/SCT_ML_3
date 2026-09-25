@@ -18,7 +18,9 @@ Give it any photo — it'll tell you Cat or Dog with a confidence score.
 Python · scikit-learn · scikit-image · NumPy · Matplotlib
 
 📁 Files
+
 File	Description
+
 task03_svm.py	--Trains the SVM model
 
 predict_image.py --Test the model on any image
