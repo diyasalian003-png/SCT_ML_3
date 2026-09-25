@@ -20,6 +20,9 @@ Python · scikit-learn · scikit-image · NumPy · Matplotlib
 📁 Files
 File	Description
 task03_svm.py	--Trains the SVM model
+
 predict_image.py --Test the model on any image
+
 confusion_matrix.png --Model performance
+
 sample_predictions.png --Example predictions
